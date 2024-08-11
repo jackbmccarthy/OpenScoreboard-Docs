@@ -1,0 +1,8 @@
+{
+    "label": "Team Matches",
+    "position": 200,
+    "link": {
+      "type": "generated-index",
+      "description": "Create tables/courts and keep score."
+    }
+  }

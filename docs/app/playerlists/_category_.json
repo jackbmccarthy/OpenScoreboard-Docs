@@ -1,0 +1,8 @@
+{
+    "label": "Player Lists",
+    "position": 300,
+    "link": {
+      "type": "generated-index",
+      "description": "Learn about player lists, and importing players during a stream."
+    }
+  }
